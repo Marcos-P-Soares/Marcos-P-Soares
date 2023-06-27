@@ -32,5 +32,4 @@ These are some of the technologies and tools that currently use:
 
 ## 📫 &nbsp;My Contacts
 
-![Gmail](https://img.shields.io/badge/-marcos.paulo.s.m.filho@gmail.com-?style=for-the-badge&logo=gmail&logoColor=white)(mailto:marcos.paulo.s.m.filho@gmail.com)
 
