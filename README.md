@@ -1,7 +1,8 @@
-### Hi there 👋 || Salve!!
-  Meu nome é Marcos Paulo, tenho 23 anos e sou estudante do curso superior de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. Sou completamente apaixonado por tecnologia e tudo que envolve esse universo. Nos meus momentos de descontração, gosto de jogar e frequentar a academia. Bem-vindos ao meu caos pessoal...
+### Hey, I'm Marcos Paulo 👋 || Salve!! 🫡
+  Tenho 23 anos e sou estudante do curso superior de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. Sou completamente apaixonado por tecnologia e tudo que envolve esse universo. Nos meus momentos de descontração, gosto de jogar e frequentar a academia. Bem-vindos ao meu caos pessoal...
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+🤓 Computer Systems Analysis and Development student at - https://ifpi.edu.br/
+
 <!--
 **Marcos-P-Soares/Marcos-P-Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
