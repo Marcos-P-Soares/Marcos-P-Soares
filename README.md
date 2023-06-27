@@ -10,7 +10,7 @@
 </div>
 <br>
 <br>
-⚡ &nbsp;Fun fact: I'm also a Games and Gym lover.
+⚡ &nbsp;Fun fact: I'm also Games and Gym lover.
 
 ## ⚡ &nbsp;Technologies
 
