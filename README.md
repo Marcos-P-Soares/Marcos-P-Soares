@@ -32,6 +32,6 @@ These are some of the technologies and tools that currently use:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
 
 ## 📫 &nbsp;My Contacts
-<div>
-<a href="mailto:marcos.paulo.s.m.filho@gmail.com" target="_blank"><img src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
-</div>
+<a href="mailto:marcos.paulo.s.m.filho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/marcosejc?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
