@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+NodeJS	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <!--
 **Marcos-P-Soares/Marcos-P-Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
