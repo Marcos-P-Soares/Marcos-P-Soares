@@ -1,7 +1,8 @@
 ### Hey, I'm Marcos Paulo 👋 || Salve!! 🫡
 
 🤓💻 &nbsp; Computer Systems Analysis and Development student at - [IFPI Campus Picos](https://ifpi.edu.br) <br>
-
+⚡ &nbsp;Fun fact: Games and Gym lover. I'm caotic.
+<br>
 <div align="center">
 
   `technology lover and enthusiast`
@@ -9,7 +10,7 @@
   `Always learning...👾`
 </div>
 
-⚡ &nbsp;Fun fact: Games and Gym lover. I'm caotic.
+
 
 ## ⚡ &nbsp;Technologies
 
