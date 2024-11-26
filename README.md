@@ -22,7 +22,7 @@ These are some of the technologies and tools that currently use:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
@@ -30,7 +30,7 @@ These are some of the technologies and tools that currently use:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) &nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
-
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ## 📫 &nbsp;My Contacts
