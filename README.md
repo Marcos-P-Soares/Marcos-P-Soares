@@ -36,5 +36,4 @@ These are some of the technologies and tools that currently use:
 
 ## 📫 &nbsp;My Contacts
 <a href="mailto:marcos.paulo.s.m.filho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[[https://instagram.com/marcosejc?igshid=MzNlNGNkZWQ4Mg==][(https://www.instagram.com/marcos.paulo.s.m.f/profilecard/?igsh=YnhmeTV1ajRheWNh)(https://www.instagram.com/marcos.paulo.s.m.f/profilecard/?igsh=YnhmeTV1ajRheWNh)](https://www.instagram.com/marcos.paulo.s.m.f/profilecard/?igsh=YnhmeTV1ajRheWNh)"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
